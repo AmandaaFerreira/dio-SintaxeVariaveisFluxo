@@ -7,7 +7,7 @@ public class testaEscopo {
 		int quantidadePessoas = 3; 
 		
 		boolean acompanhado = quantidadePessoas >= 2; 
-		
+// teste 		
 		if(quantidadePessoas >= 2) {
 			acompanhado = true; 
 		} 
